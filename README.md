@@ -2,5 +2,5 @@
 Extraction of brain tumor regions from MRI images based on image processing methods
 
 Dependencies:
-OpenCV 
-Matplotlib
+- OpenCV 
+- Matplotlib
