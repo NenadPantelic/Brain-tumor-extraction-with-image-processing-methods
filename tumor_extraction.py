@@ -1,8 +1,5 @@
 
 import cv2
-import numpy as np
-import matplotlib.pyplot as plt
-
 from processing import *
 
 image = cv2.imread("mri.png", 1)
